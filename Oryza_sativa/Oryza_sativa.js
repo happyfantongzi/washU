@@ -142,7 +142,7 @@ const Oryza_sativa = {
     cytobands: cytobands,
     defaultRegion: defaultRegion,
     defaultTracks: defaultTracks,
-    twoBitURL: "https://annoroad-cloud-product.oss-cn-beijing.aliyuncs.com/user/space/15910656386/Data/Oryza_sativa.IRGSP-1.0.dna.toplevel.2bit?OSSAccessKeyId=STS.NS1R9ZvxoWetcgDcyRU8yvhNg&Expires=1572259784&Signature=xNn49%2FgwsQ9WpS1xTd6q1XSNZbA%3D&response-content-disposition=attachment&security-token=CAISgwJ1q6Ft5B2yfSjIr5CEGYPum6dO4KefYUH1h3kHWbdVma3lhTz2IH1FfHdoBO8ftP8xn2pX7vsflqJ8RoN%2BWVf4ash96MzLVJpG6s%2BT1fau5Jko1beXewHKeSOZsebWZ%2BLmNqS%2FHt6md1HDkAJq3LL%2Bbk%2FMdle5MJqP%2B%2FEFA9MMRVv6F3kkYu1bPQx%2FssQXGGLMPPK2SH7Qj3HXEVBjt3gb6wZ24r%2FtxdaHuFiMzg%2B46JdM%2B9uhf8T%2BPpY8bMsgAobp5oEsKPqdihw3wgNR6aJ7gJZD%2FTr6pdyHCzFTmU7bYrKKqoAwdVUiOPNgRPYZ8eKdnPt%2BvefXkJn724SM%2FWGcrJy1GoABDeegxhjFy4e9vn%2BqV9z88R97jOsSCXPuCkx7Rw%2FUwQwUBgcObl3zMR0UzRpviK%2BO8f6ebzQCVd7IJGdFHtQTYyspp41nA8ozeTEJNOQPvbNTTaye9VT1WyPUokJuXoR9AxGxjLlV1w5nzs9WdoabwspFy%2B0HXwAntdTNxjPEIeA%3D",
+    twoBitURL: "https://github.com/happyfantongzi/washU/blob/master/Oryza_sativa.IRGSP-1.0.dna.toplevel.2bit",
     annotationTracks,
 };
 
